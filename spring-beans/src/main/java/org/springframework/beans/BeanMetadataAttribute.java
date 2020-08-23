@@ -52,6 +52,7 @@ public class BeanMetadataAttribute implements BeanMetadataElement {
 
 	/**
 	 * Return the name of the attribute.
+	 *
 	 */
 	public String getName() {
 		return this.name;
