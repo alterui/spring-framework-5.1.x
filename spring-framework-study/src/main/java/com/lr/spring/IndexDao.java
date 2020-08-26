@@ -8,4 +8,7 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class IndexDao {
+	public void get() {
+		System.out.println("hello");
+	}
 }
